@@ -1,0 +1,19 @@
+{
+  "name": "Aula2_4",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.21"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "description": ""
+}
